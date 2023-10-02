@@ -31,10 +31,3 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Acknowledgements
-
-- Thank you to the open-source community for inspiring us to create this project.
-- A special thanks to Knuth and his Algorithm X for providing the basis for our solver.
-- The pentomino images used in this README are from Wikimedia Commons and are in the public domain.
-
-Please note that this README is written in a professional and attractive manner, using clear language and concise explanations. It includes sections like Getting Started, Contributing, and Acknowledgements, which follow best practices for README files [Source 1](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/), [Source 5](https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061), [Source 6](https://github.com/jehna/readme-best-practices), [Source 13](https://github.com/elsewhencode/project-guidelines).
