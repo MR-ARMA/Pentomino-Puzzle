@@ -2,7 +2,7 @@
 
 Unlock the charm of the Pentomino Puzzle with this elegant C++ solution. The Pentomino puzzle, a classic in the world of logic puzzles, challenges you to fit 12 pentomino pieces into a 6x10 grid. This project is a C++ program that solves the 6x10 Pentomino puzzle using the Knuth Algorithm X with Doubly Linked Lists, called DLX. It prints out all solutions to the Pentomino puzzle for a NxM rectangular board.
 
-# <center> ![Pentomino Puzzle](pictures/pentomino.jpg)
+# <center> ![Pentomino Puzzle](Pentomino-Puzzle/pictures/pentomino.jpg)
 
 ## Project Overview
 
