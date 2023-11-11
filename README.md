@@ -17,15 +17,6 @@ To get started with the Pentomino Puzzle Solver, follow the steps below:
 3. Compile the C++ code using a C++11 compatible compiler. For example, if you're using g++, you can use the command `g++ -std=c++11 main.cpp -o main`.
 4. Run the compiled program using the command `./main`.
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
